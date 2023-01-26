@@ -7,7 +7,7 @@
 
 ## Live Demo 🌐 :
 
-https://todo-app-redux-fire-base.vercel.app
+https://todo-app-class-typescript.vercel.app
 
 
 or
