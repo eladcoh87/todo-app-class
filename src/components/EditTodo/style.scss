@@ -1,0 +1,12 @@
+.containerEditTodo {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+
+  .textFieldEdit {
+    .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+      .MuiOutlinedInput-notchedOutline {
+      border-color: rgba(72, 255, 0, 0.418);
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.todoItemContainer {
+
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 1rem;
+gap: 1rem;
+
+.todoText{
+
+
+background-color: azure;
+flex-basis: 70%;
+height: 3rem;
+border-radius: 20px;
+padding: 1rem;
+}
+
+.btnsContainer{
+
+
+display: flex;
+justify-content: flex-end;
+gap: 10px;
+
+}
+}
+
+
+
+@media screen and (max-width: 715px) {
+
+    .todoItemContainer {
+      
+        flex-direction: column;
+    }
+
+}
