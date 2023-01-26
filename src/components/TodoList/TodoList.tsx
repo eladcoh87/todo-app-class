@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 
 type OwnProps = {
   state: State;
-};
+};;
 
 export class TodoList extends Component<OwnProps> {
   constructor(props: OwnProps) {
